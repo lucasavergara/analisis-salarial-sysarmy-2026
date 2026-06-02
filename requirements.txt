@@ -1,0 +1,9 @@
+# Análisis salarial del sector IT argentino — Sysarmy 2026
+# Dependencias para reproducir los notebooks
+pandas
+numpy
+scipy
+statsmodels
+seaborn
+matplotlib
+jupyter
